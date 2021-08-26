@@ -1,4 +1,6 @@
 ![logo2](https://user-images.githubusercontent.com/68534487/130913586-114218a7-1ea0-45cf-8826-b27e173fe83d.png)
+local 주소 -> User/zsoo/S05P13A506
+
 ### 웹 RTC 기반 프로젝트 : 중고 화상거래 경매 플랫폼 
 서비스 URL: https://i5a506.p.ssafy.io<br>
 WebRTC 기술을 활용한 화상라이브로 사용자가 직접 경매를 진행하여 개인 중고물품을 판매하는 웹사이트 플랫폼입니다. <br>
